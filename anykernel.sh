@@ -17,6 +17,7 @@ device.name4=RM6785
 device.name5=salaa
 device.name6=r5x
 device.name7=RMX1801
+device.name6=everpal
 supported.versions=
 supported.patchlevels=
 '; } # end properties
